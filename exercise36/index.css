@@ -1,0 +1,16 @@
+#colorPreview {
+  width: 400px;
+  height: 200px;
+  margin: 20px 0;
+  border: 1px dotted black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#colorHistory {
+  list-style: none;
+  padding: 0;
+}
+#colorHistory li {
+  margin: 10px 0;
+}
